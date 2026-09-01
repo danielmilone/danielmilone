@@ -5,18 +5,18 @@
 
 Olá, me chamo Daniel Milone, tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS) pela Estácio. Possuo curso técnico em informática e experiência com manutenção de computadores. Sempre tive interesse por tecnologia e atualmente venho aprimorando meus conhecimentos em desenvolvimento e explorando a área de administração Salesforce.
 <p align="left">
-    <a href="https://github.com/Daniel-Milone?tab=repositories&sort=stargazers">
+    <a href="https://github.com/danielmilone?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Daniel-Milone?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/danielmilone?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Daniel-Milone?tab=followers">
+    <a href="https://github.com/danielmilone?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Daniel-Milone?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/danielmilone?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -102,14 +102,14 @@ Olá, me chamo Daniel Milone, tenho 25 anos e sou estudante de Análise e Desenv
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Daniel-Milone&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=danielmilone&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Milone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmilone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
