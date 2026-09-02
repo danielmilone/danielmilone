@@ -1,7 +1,6 @@
 # 👨‍💻 Daniel Milone
 
-**`Desenvolvedor FullStack`**
-**`Administrador SalesForce`**
+**`Desenvolvedor FullStack | Administrador SalesForce `**
 
 Olá, me chamo Daniel Milone, tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS) pela Estácio. Possuo curso técnico em informática e experiência com manutenção de computadores. Sempre tive interesse por tecnologia e atualmente venho aprimorando meus conhecimentos em desenvolvimento e explorando a área de administração Salesforce.
 <p align="left">
